@@ -2,25 +2,25 @@
 
 I'm a System Architect with more then 20 years of embedded SW experience. Here I post my own hobby projects. Originally from 🇺🇦, moved to 🇩🇪 long time ago.
 
-<table style="width:100%; border: none;"><tr><td>
+<table style="width:100%; border: none"><tr><td>
 
 I'm mostly working on embedded projects using:
 
-- Tasks:
+- ⚡ Tasks:
   - Embedded
   - Real-time
-- Roles:
+- 👯 Roles:
   - System/Software Architect
   - Senior SW Developer
   - Scrum Master
-- Languages:
+- 🔑 Languages:
   - C/C++
   - python
-- OSs:
+- 🔧 OSs:
   - QNX
   - Linux
   - FreeRTOS
-- PCBs:
+- 🔨 PCBs:
   - Eagle CAD
   - KiCAD
 
