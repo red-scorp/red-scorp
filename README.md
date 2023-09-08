@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a System Architect with more then 20 years of embedded SW experience. Here I post my own hobby projects. Originally from 🇺🇦 , moved to 🇩🇪 long ago.
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=red-scorp&show_icons=true)
+
 <!--
 **red-scorp/red-scorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
