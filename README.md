@@ -2,7 +2,7 @@
 
 I'm a System Architect with more then 20 years of embedded SW experience. Here I post my own hobby projects. Originally from 🇺🇦, moved to 🇩🇪 long time ago.
 
-<table style="width:100%" cellspacing="0" cellpadding="0"><tr><td>
+<table style="width:100%; border: none;"><tr><td>
 
 I'm mostly working on embedded projects using:
 
