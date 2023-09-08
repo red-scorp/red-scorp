@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-I'm a System Architect with more then 20 years of embedded SW experience. Here I post my own hobby projects. Originally from 🇺🇦 , moved to 🇩🇪 long ago.
+I'm a System Architect with more then 20 years of embedded SW experience. Here I post my own hobby projects. Originally from 🇺🇦, moved to 🇩🇪 long time ago.
+
+I'm mostly working on embedded projects using:
+
+- C/C++
+- python
+- Eagle CAD
+- KiCAD
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=red-scorp&show_icons=true)
 
