@@ -4,10 +4,23 @@ I'm a System Architect with more then 20 years of embedded SW experience. Here I
 
 I'm mostly working on embedded projects using:
 
-- C/C++
-- python
-- Eagle CAD
-- KiCAD
+- Tasks:
+  - Embedded
+  - Real-time
+- Roles:
+  - System/Software Architect
+  - Senior SW Seveloper
+  - Scrum Master
+- Languages:
+  - C/C++
+  - python
+- OSs:
+  - QNX
+  - Linux
+  - FreeRTOS
+- PCBs:
+  - Eagle CAD
+  - KiCAD
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=red-scorp&show_icons=true)
 
