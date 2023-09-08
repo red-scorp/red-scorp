@@ -4,12 +4,14 @@ I'm a System Architect with more then 20 years of embedded SW experience. Here I
 
 I'm mostly working on embedded projects using:
 
+<table style="width:100%"><tr><td>
+
 - Tasks:
   - Embedded
   - Real-time
 - Roles:
   - System/Software Architect
-  - Senior SW Seveloper
+  - Senior SW Developer
   - Scrum Master
 - Languages:
   - C/C++
@@ -22,7 +24,11 @@ I'm mostly working on embedded projects using:
   - Eagle CAD
   - KiCAD
 
+</td><td>
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=red-scorp&show_icons=true)
+
+</td></tr></table>
 
 <!--
 **red-scorp/red-scorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
