@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a System Architect with more then 20 years of embedded SW experience. Here I post my own hobby projects. Originally from 🇺🇦, moved to 🇩🇪 long time ago.
+I'm a System Architect with more then 20 years of embedded SW experience. Here I post my own hobby projects.
+
+Feel free to contact me if you have questions or suggestions.
 
 <table style="width:100%; border: none"><tr><td>
 
@@ -27,6 +29,8 @@ I'm mostly working on embedded projects using:
 </td><td>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=red-scorp&show_icons=true)
+
+This is not really essential for me, but I try to work on my hobby projects daily.
 
 </td></tr></table>
 
