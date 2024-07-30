@@ -37,7 +37,7 @@ I'm mostly working on embedded projects using:
 </td><td>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=red-scorp&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=red-scorp&layout=donut))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=red-scorp&layout=donut)
 
 This is not really essential for me, but I try to work on my hobby projects daily.
 
