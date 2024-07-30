@@ -9,15 +9,15 @@ Feel free to contact me if you have questions or suggestions.
 I'm mostly working on embedded projects using:
 
 - ⚡ Tasks:
-  - Embedded
-  - Real-time
+  - Embedded SW
+  - Real-time SW
 - 👯 Roles:
   - System/Software Architect
   - Senior SW Developer
   - Scrum Master
 - 🔑 Languages:
   - C/C++
-  - python
+  - Python
 - 🔧 OSs:
   - QNX
   - Linux
@@ -25,10 +25,19 @@ I'm mostly working on embedded projects using:
 - 🔨 PCBs:
   - Eagle CAD
   - KiCAD
+- 🧰 Chips:
+  - ARM
+  - PIC32/MIPS
+  - AVR
+- ⚙️ Manufacurers:
+  - Microchip/Atmel
+  - ST
+  - Infineon
 
 </td><td>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=red-scorp&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=red-scorpa&hide_progress=true)
 
 This is not really essential for me, but I try to work on my hobby projects daily.
 
